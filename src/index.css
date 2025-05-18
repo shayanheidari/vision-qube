@@ -13,9 +13,7 @@ body {
 }
 
 .hero-pic {
-  background:
-    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)),
-    url("assets/IMG_9647.png") no-repeat center;
+  background: url("assets/IMG_9647.png") no-repeat center;
   background-size: cover;
 }
 
