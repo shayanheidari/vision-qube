@@ -10,7 +10,7 @@ const ComingSoon = () => {
         </div>
         <div className="flex justify-center items-center md:w-[60vw] w-full h-[60vh] md:h-full pt-10 md:pt-0">
           <div className="px-5 w-[90%] h-[90%] md:h-[70%]">
-            <h2 className="tracking-wide font-medium md:text-4xl text-3xl md:pt-10 pb-5">
+            <h2 className="tracking-wide font-medium md:text-4xl text-2xl md:pt-10 pb-5">
               It's Coming Soon
               <div className="loader md:h-[50px] h-[30px] inline-block ml-3" />
             </h2>
