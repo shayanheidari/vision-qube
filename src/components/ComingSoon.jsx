@@ -15,7 +15,7 @@ const ComingSoon = () => {
               <div className="loader md:h-[50px] h-[30px] inline-block ml-3" />
             </h2>
 
-            <p className="font-light tracking-tight text-justify max-w-[700px] h-[calc(100%-120px)] overflow-y-scroll no-scrollbar">
+            <p className="font-light tracking-tight text-justify max-w-[700px] h-[calc(100%-130px)] overflow-y-scroll no-scrollbar">
               VisionQube Ltd is a deep-tech startup pioneering advanced computer
               vision and AI solutions across diverse environments. Our expertise
               encompasses 2D and 3D visual analytics, photogrammetry, remote
