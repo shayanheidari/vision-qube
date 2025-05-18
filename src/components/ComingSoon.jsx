@@ -11,7 +11,7 @@ const ComingSoon = () => {
         <div className="flex justify-center items-center md:w-[60vw] w-full h-[60vh] md:h-full pt-10 md:pt-0">
           <div className="px-5 w-[90%] h-[90%] md:h-[70%]">
             <h2 className="tracking-wide font-medium md:text-4xl text-3xl md:pt-10 pb-5">
-              Coming Soon
+              It's Coming Soon
               <div className="loader md:h-[50px] h-[30px] inline-block ml-3" />
             </h2>
 
@@ -27,9 +27,17 @@ const ComingSoon = () => {
               Committed to innovation, VisionQube also maintains active
               engagement with the global research community and contributes to
               the advancement of the field through collaboration and knowledge
-              exchange. We are proudly co-organizing and partnering with the
-              Advanced Concepts for Intelligent Vision Systems (ACIVS)
-              conference, taking place in Tokyo, Japan, from 28th to 30th July
+              exchange.
+              <div className="h-2" />
+              We are proudly co-organizing and partnering with the Advanced
+              Concepts for Intelligent Vision Systems (
+              <a
+                href="http://www.acivs2025.com"
+                className="text-teal-700 active:text-teal-700 active:underline"
+              >
+                ACIVS
+              </a>
+              ) conference, taking place in Tokyo, Japan, from 28th to 30th July
               2025.
             </p>
           </div>

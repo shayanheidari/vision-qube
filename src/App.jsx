@@ -11,11 +11,9 @@ function App() {
 
   return (
     <>
-      {/* <div className="md:bg-gray-100 md:py-[100px] md:px-[250px] h-screen w-screen"> */}
       <Navbar />
       <ComingSoon />
       <Footer />
-      {/* </div> */}
     </>
   );
 }
