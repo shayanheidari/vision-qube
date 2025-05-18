@@ -29,16 +29,18 @@ const ComingSoon = () => {
               the advancement of the field through collaboration and knowledge
               exchange.
               <div className="h-2" />
-              We are proudly co-organizing and partnering with the Advanced
-              Concepts for Intelligent Vision Systems (
-              <a
-                href="http://www.acivs2025.com"
-                className="text-teal-700 active:text-teal-700 active:underline"
-              >
-                ACIVS
-              </a>
-              ) conference, taking place in Tokyo, Japan, from 28th to 30th July
-              2025.
+              <span className="font-medium">
+                We are proudly co-organizing and partnering with the Advanced
+                Concepts for Intelligent Vision Systems (
+                <a
+                  href="http://www.acivs2025.com"
+                  className="text-teal-700 active:text-teal-700 active:underline"
+                >
+                  ACIVS
+                </a>
+                ) conference, taking place in Tokyo, Japan, from 28th to 30th
+                July 2025.
+              </span>
             </p>
           </div>
         </div>
