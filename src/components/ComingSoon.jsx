@@ -2,8 +2,7 @@ import React from "react";
 
 const ComingSoon = () => {
   return (
-    <div className="h-screen w-screen">
-      {/* //md:w-[calc(100vw-500px)] md:h-[calc(100vh-200px)] */}
+    <div className="h-dvh w-screen">
       <div className="flex md:flex-row flex-col w-full h-full bg-white">
         <div className="md:inline-block md:w-[40vw] w-full md:h-full h-[40vh]">
           <div className="hero-pic w-full h-full" />
